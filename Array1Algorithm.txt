@@ -1,0 +1,5 @@
+Array[size] <--initialize array and size
+integrate i along Array[0] --> array [size] cin array values 
+check if array[i] is greater than or equal to next value array[i+1]
+if it is, set status of increasing to false, to true otherwise.
+print array by integrating i through array size, cout array[i]
